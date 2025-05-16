@@ -10,7 +10,6 @@ sheet_name = "Hx V4"
 server = "svrrestore.database.windows.net"
 database = "Restore"
 username = "sqlAdmin"   # 🔁 Replace
-password = 'Et"&Zc!QSUtG'    # 🔁 Replace
 
 start_time = time.time()
 print(f"[{datetime.datetime.now()}] Script started.\n")
